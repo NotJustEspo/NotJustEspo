@@ -3,6 +3,8 @@
 
 ![](https://komarev.com/ghpvc/?username=NotJustEspo)
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=NotJustEspo&theme=dark)](https://github.com/NotJustEspo/leetcode-stats)
+
 - 👋 Hi, I’m @NotJustEspo
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
