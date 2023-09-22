@@ -1,6 +1,8 @@
 <h1 align='center'>Hi there, I'm Aleksandr</h1>
 <h3 align='center'>Python developer student</h3>
 
+![](https://komarev.com/ghpvc/?username=NotJustEspo)
+
 - 👋 Hi, I’m @NotJustEspo
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
