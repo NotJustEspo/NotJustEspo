@@ -1,6 +1,8 @@
 <h1 align='center'>Hi there, I'm Aleksandr</h1>
 <h3 align='center'>Python developer student</h3>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NotJustEspo)](https://git.io/streak-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=NotJustEspo)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=NotJustEspo)
