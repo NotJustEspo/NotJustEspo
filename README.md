@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there, I'm Aleksandr</h1>
 <h3 align='center'>Python developer student</h3>
-<div id="badges">
+<div id="badges" align='center'>
   <a href='https://www.reddit.com/user/NJ_Espo'>
   <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
