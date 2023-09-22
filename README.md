@@ -1,6 +1,7 @@
 <h1 align='center'>Hi there, I'm Aleksandr 👋</h1>
 <h3 align='center'>Python developer student</h3>
 <div id="badges" align='center'>
+  <img src="https://komarev.com/ghpvc/?username=your-github-NotJustEspo&style=flat-square&color=blue" alt=""/>
   <a href='https://www.reddit.com/user/NJ_Espo'>
   <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
@@ -9,7 +10,7 @@
   <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
 </div>
-(https://leetcode-stats-six.vercel.app/api?username=NotJustEspo&theme=dark)(https://github.com/KnlnKS/leetcode-stats)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NotJustEspo&theme=solarized_dark)
 
