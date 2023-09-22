@@ -20,6 +20,8 @@ I am a Python Developer student <img src="https://media.giphy.com/media/WUlplcMp
 
 - :seedling: Exploring Technical Content Writing.
 
+- :chart_with_upwards_trend:I'm engaged in data analytics using Python and SQL.
+
 - :mailbox:How to reach me: notjustespo@yandex.ru
 
 -----
