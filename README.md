@@ -16,13 +16,13 @@
 
 ### :man_technologist: About Me : 
 I am a Python Developer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- 🧑‍🎓: I’m studying a Yandex Practicum course to become a Python Developer.
+- 🧑‍🎓 I’m studying a Yandex Practicum course to become a Python Developer.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :chart_with_upwards_trend:I'm engaged in data analytics using Python and SQL.
+- :chart_with_upwards_trend: I'm engaged in data analytics using Python and SQL.
 
-- :mailbox:How to reach me: notjustespo@yandex.ru
+- :mailbox: How to reach me: notjustespo@yandex.ru
 
 -----
 
