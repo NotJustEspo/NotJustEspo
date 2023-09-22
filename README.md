@@ -2,11 +2,11 @@
 <h3 align='center'>Python developer student</h3>
 <div id="badges">
   <a href='https://www.reddit.com/user/NJ_Espo'>
-  <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=linkedin&logoColor=white" alt="Reddit Badge"/>
+  <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
-  <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <a href='https://leetcode.com/NotJustEspo/'>
-  <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=youtube&logoColor=white" alt="Leetcode Badge"/>
+  <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
 </div>
 
