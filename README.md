@@ -12,7 +12,9 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-NotJustEspo&style=flat-square&color=blue" alt=""/>
 </div>
----
+
+-----
+
 ### :man_technologist: About Me :
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NotJustEspo&theme=solarized_dark)
