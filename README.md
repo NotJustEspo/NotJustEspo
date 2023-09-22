@@ -14,7 +14,8 @@
 
 -----
 
-### :man_technologist: About Me : I am a Python Developer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+### :man_technologist: About Me : 
+I am a Python Developer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NotJustEspo&theme=solarized_dark)
 
