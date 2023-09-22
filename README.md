@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Aleksandr
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align='center'>Hi there, I'm Aleksandr</h1>
+<h3 align='center'>Python developer student</h3>
 
 - 👋 Hi, I’m @NotJustEspo
 - 👀 I’m interested in ...
