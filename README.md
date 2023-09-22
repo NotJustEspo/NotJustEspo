@@ -8,6 +8,8 @@
   <a href='https://leetcode.com/NotJustEspo/'>
   <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
+</div>
+<div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-NotJustEspo&style=flat-square&color=blue" alt=""/>
 </div>
 
