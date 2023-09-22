@@ -1,4 +1,4 @@
-<h1 align='center'>Hi there, I'm Aleksandr</h1>
+<h1 align='center'>Hi there, I'm Aleksandr 👋</h1>
 <h3 align='center'>Python developer student</h3>
 <div id="badges" align='center'>
   <a href='https://www.reddit.com/user/NJ_Espo'>
@@ -18,7 +18,7 @@
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=NotJustEspo&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
-- 👋 Hi, I’m @NotJustEspo
+-  Hi, I’m @NotJustEspo
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
