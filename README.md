@@ -8,8 +8,8 @@
   <a href='https://leetcode.com/NotJustEspo/'>
   <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
-  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=NotJustEspo&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 </div>
+(https://leetcode-stats-six.vercel.app/api?username=NotJustEspo&theme=dark)(https://github.com/KnlnKS/leetcode-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NotJustEspo&theme=solarized_dark)
 
