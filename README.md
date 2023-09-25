@@ -31,7 +31,10 @@ I am a Python Developer student <img src="https://media.giphy.com/media/WUlplcMp
 
 -----
 
+### My stats : 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NotJustEspo&theme=solarized_dark)
+
+(https://leetcode-stats-six.vercel.app/api?username=NotJustEspo&theme=dark)(https://github.com/KnlnKS/leetcode-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotJustEspo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
