@@ -33,7 +33,9 @@ I am a Python Developer student <img src="https://media.giphy.com/media/WUlplcMp
 ### Languages and tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
 </div>
+
 -----
 
 ### My stats : 
