@@ -30,6 +30,11 @@ I am a Python Developer student <img src="https://media.giphy.com/media/WUlplcMp
 - :mailbox: How to reach me: notjustespo@yandex.ru
 
 -----
+### Languages and tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div>
+-----
 
 ### My stats : 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NotJustEspo&theme=solarized_dark)
